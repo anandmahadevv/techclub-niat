@@ -22,3 +22,6 @@
 ## Update (2026-02-22T09:47:11)
 - style: format code according to linter rules
 
+## Update (2026-02-08T09:47:11)
+- test: add unit tests for utility functions
+
