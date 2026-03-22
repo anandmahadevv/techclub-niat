@@ -13,3 +13,6 @@
 ## Update (2026-04-05T09:47:10)
 - docs: update API endpoints documentation
 
+## Update (2026-03-22T09:47:10)
+- refactor: cleanup unused variables and imports
+
