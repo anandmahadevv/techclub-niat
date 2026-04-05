@@ -10,3 +10,6 @@
 ## Update (2026-04-19T09:47:10)
 - style: format code according to linter rules
 
+## Update (2026-04-05T09:47:10)
+- docs: update API endpoints documentation
+
